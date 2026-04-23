@@ -47,7 +47,7 @@
     "versionPublish": "6.1.12",
     "imageResize": true,
     "publishChangesOnly": true,
-    "publishEditFolder": false,
+    "publishEditFolder": true,
     "screenshot": "screenshot.png",
     "favicon": false,
     "mbrsiteDomain": "ek4hp5ffun",
